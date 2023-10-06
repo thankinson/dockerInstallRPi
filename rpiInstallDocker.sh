@@ -1,5 +1,3 @@
-#!bin/bash
-
 # This is my instalation script for raspbery pi4 home server
 
 # this removes docker
