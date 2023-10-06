@@ -25,7 +25,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 
 # this adds curent user to the list of docker users
-sudo usermod -a -G docker $USER
+# sudo usermod -a -G docker $USER
 
 # reboots pi to allow for changes to take effect
-sudo reboot 
+# sudo reboot 
